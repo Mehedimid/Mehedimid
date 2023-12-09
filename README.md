@@ -1,5 +1,7 @@
 ![I am a web developer](https://i.postimg.cc/YrzCLzhR/github.png)
 
+Passionate React developer eager to contribute and learn in a collaborative team environment. Seeking opportunities to apply skills in front-end development, collaborate with experienced professionals, and contribute to innovative projects. Open to mentorship and growth opportunities while aiming to contribute meaningfully to the field.
+
 # 👇 REACH ME OUT
 
 <div align="center" style="text-align: center; margin-bottom: 50px">
