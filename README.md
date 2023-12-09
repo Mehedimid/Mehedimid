@@ -2,7 +2,7 @@
 
 # 👇 REACH ME OUT
 
-<div style="text-align: center; margin-bottom: 50px">
+<div align="center" style="text-align: center; margin-bottom: 50px">
   <a href="https://github.com/Mehedimid" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mehedimid/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/mehedimid/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>&nbsp;&nbsp;
