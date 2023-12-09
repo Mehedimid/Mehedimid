@@ -15,15 +15,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mehedimid)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 👇 CURRENT STATS
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedimid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedimid&show_icons=true)  
-
- 
 
 👇 [GitHub metrics](https://metrics.lecoq.io/Mehedimid)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedimid)  
+
+# 👇 CURRENT STATS
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedimid&show_icons=true)  
+
 
