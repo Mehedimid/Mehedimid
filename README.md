@@ -23,13 +23,15 @@ Passionate React developer eager to contribute and learn in a collaborative team
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedimid)](https://github.com/anuraghazra/github-readme-stats)
 
-
- # 👇 Github Matics
+<div style={display:"flex"}>
+   # 👇 Github Matics
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedimid)  
 
 # 👇 CURRENT STATS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedimid&show_icons=true)  
+</div>
+
 
 
 
