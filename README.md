@@ -1,6 +1,6 @@
 ![I am a web developer](https://i.postimg.cc/YrzCLzhR/github.png)
 
-Passionate React developer eager to contribute and learn in a collaborative team environment. Seeking opportunities to apply skills in front-end development, collaborate with experienced professionals, and contribute to innovative projects. Open to mentorship and growth opportunities while aiming to contribute meaningfully to the field.
+I am a junior React developer and eager to join a wonderful team where I can enhance my skills and grow into an expert-level professional. I am enthusiastic about tackling challenging projects and collaborating with a supportive team to contribute to significant achievements.
 
 # 👇 REACH ME OUT
 
