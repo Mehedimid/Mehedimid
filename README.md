@@ -8,7 +8,7 @@ I am a junior React developer and eager to join a wonderful team where I can enh
   <a href="https://github.com/Mehedimid" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mehedimid/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/mehedimid/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>&nbsp;&nbsp;
-  <a href="https://mehedimid.surge.sh/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
+  <a href="https://mehedimid.web.app" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'></a>
 </div>
 
 # 👇 TECHNOLOGY THAT I KNOW
