@@ -14,20 +14,24 @@ I am a Full Stack developer and eager to join a wonderful team where I can enhan
 # 👇 TECHNOLOGY THAT I KNOW
 <div style="text-align: center; margin-bottom: 50px"> 
   <p align="center">
-    <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.creazilla.com/icons/3270329/next-dot-js-icon-size_512.png" alt="NextJs" width="40" height="40"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+      <img src="https://i.postimg.cc/NFpJfxwX/download.png" alt="Redux" width="40" height="40"/>
+    </a>
+      <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+      <img src="https://cdn.creazilla.com/icons/3270329/next-dot-js-icon-size_512.png" alt="NextJs" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-V5LcH5U7RKfkRED6sF9bt-xSzNtAs5KUYa5P3ZwiT-TW288fF5pEtI_695EVau1g48c&usqp=CAU" alt="expressjs" width="40" height="40"/>
