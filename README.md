@@ -1,4 +1,4 @@
-![I am a web developer](https://i.postimg.cc/YrzCLzhR/github.png)
+![I am a web developer](https://i.postimg.cc/CxFh2hc6/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
 
 I am a junior React developer and eager to join a wonderful team where I can enhance my skills and grow into an expert-level professional. I am enthusiastic about tackling challenging projects and collaborating with a supportive team to contribute to significant achievements.
 
